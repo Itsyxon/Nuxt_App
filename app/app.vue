@@ -1,0 +1,19 @@
+<template>
+  <div>
+    <!-- <NuxtRouteAnnouncer /> -->
+    <!-- <NuxtWelcome /> -->
+    <NuxtPage />
+  </div>
+</template>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+}
+body {
+  background-color: #111113;
+  color: #fffff0;
+}
+</style>
