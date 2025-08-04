@@ -2,5 +2,5 @@
 
 ## Запуск приложения
 
-npm install || yarn
-npm run dev || yarn dev
+npm install или yarn
+npm run dev или yarn dev
